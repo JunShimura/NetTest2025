@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JankenClient1", "JankenClie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JankenRoom", "JankenRoom\JankenRoom.csproj", "{63AFDB75-0558-41EB-99A6-3D79B477B613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JankenClientEx01", "JankenClientEx01\JankenClientEx01.csproj", "{FFD9AC54-609E-41EA-B7A9-40C531530537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JankenRoomEx01", "JankenRoomEx01\JankenRoomEx01.csproj", "{00EC6E52-19F6-456D-944F-95C0928CAB42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{63AFDB75-0558-41EB-99A6-3D79B477B613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63AFDB75-0558-41EB-99A6-3D79B477B613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63AFDB75-0558-41EB-99A6-3D79B477B613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD9AC54-609E-41EA-B7A9-40C531530537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD9AC54-609E-41EA-B7A9-40C531530537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD9AC54-609E-41EA-B7A9-40C531530537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD9AC54-609E-41EA-B7A9-40C531530537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EC6E52-19F6-456D-944F-95C0928CAB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EC6E52-19F6-456D-944F-95C0928CAB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EC6E52-19F6-456D-944F-95C0928CAB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EC6E52-19F6-456D-944F-95C0928CAB42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
