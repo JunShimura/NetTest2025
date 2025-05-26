@@ -102,7 +102,7 @@ namespace JankenRoomEx01
                 {
                     // hand2: 2人の手, hand1: 1人の手
                     // hand1がhand2に勝つ場合 hand1が勝者
-                    if ((hand1 + 2) % 3 == hand2)
+                    if ((hand1 + 1) % 3 == hand2)
                     {
                         // hand1が勝ち
                         for (int i = 0; i < 3; i++)
